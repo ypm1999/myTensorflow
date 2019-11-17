@@ -1,0 +1,6 @@
+/home/sjtu-ypm/Downloads/clion-2018.1.5/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sjtu-ypm/PPCA-tensorflow/CUDA_test
+-- Configuring done
+CMake Error: CMake can not determine linker language for target: CUDA_test
+CMake Error: Cannot determine link language for target "CUDA_test".
+-- Generating done
+-- Build files have been written to: /home/sjtu-ypm/PPCA-tensorflow/CUDA_test/cmake-build-debug
